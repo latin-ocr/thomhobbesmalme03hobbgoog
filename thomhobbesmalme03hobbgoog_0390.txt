@@ -1,0 +1,41 @@
+nu mnamuunmu crucum 375
+
+quarta parti circuli descripti semidiametro ΑΒ, et moa
+per consequens oequalis erit perimetro totius cir·
+culi descripti a semisse rectae AB3 et habebit dia·
+metrum equalem AB. Quare triangulum rectan-
+gulam cujus latera circa rectum angulum MBG
+sunt BC et ΒΜ, erit aequaie circulo descripto semi·
+diametro quae sit semissis rectae ΑΒ. Huic autem
+triangulo aequalc est rectaugulum sub AB et dimidia
+ΒΜ, id est rectangulo ΑΒκπς et rectangulo huic
+aequale est quadratum rectae Da, mediae propor-
+tionalis inter AB sive DC, et dimidiam ΒΜ quae
+est DE„
+
+PROPOSITIO XV.
+
+Dato quadrata iuvenire aequalem circulum.
+
+Sit datum (in fig 2) quadratum ABCD cui inve-
+niendus sit aequalis circulus. Secetur latus AB
+quadrifariam iu Ε, F, et G ; compleanturque qua-
+drata partium, quae erunt sedecem inter se aequalia3
+ducanturque diagonales AD, BC, secantes se mutuo
+in centro quadrati ad H. Ceutro H intervallo HE
+vel HG ducatur perimcter circuli secans AB in Ε
+et G, et diagonales in R et S. Secabit autem cir-
+culus latera reliqua etiam quadrifariam, transiens
+per puncta P, M, 0, N, Q et L.
+
+Dico circulum hunc aqualem esse quadrato
+ABOD. Producatur HF ad circumferentiam in T.
+Si ergo trilaterum AER, contentum duabus rectis
+ΑΕ, AR et arcu ER, aequale sit trilatero Fra con·
+tenta duabus rectis EF, FT, et arcu ΕΤ, manifes-
+tum est triangulum AHF, nempe partem octavam
+totius quadrati, aequale esse sectori HRT, octavae
+item parti totius circuli: et sic de caeteris partibus
+
+ 
+

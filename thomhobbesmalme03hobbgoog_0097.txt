@@ -1,0 +1,47 @@
+numum
+11.
+
+82 EXAMINA'HO m· :numano
+
+A. Rationes addendas propone quas vin.
+
+B. Ratiuni 2 nd 3 adde rationem 4 nd 5, pu·
+multiplicationem.
+
+A. Multiplico antecedentes, 2 et 4, in se, qui
+faciunt ὃς deinde multiplico in se consequente·
+3et ὃς producitur 1⁵. Probendum est rationem
+8 ad 15, aequalem ense ambabus rationibus 2 nd ³,
+et 4 ad 5. Nam 4 multiplicans 2 et 3, facit 8 et
+12. Est ergo ratio 8 ad 12 eadem quoe 22:11³.
+Rursus, 3 multiplicans 4 et ⁵, facit 12 et 15. Est
+ergo 12 ad 15 eadem ratio quae 4 ad ⁵. Sed in
+his numeris 8, 12, 1⁵, ratio primae ad ultimam
+aequalis est ambabus rationibus simul 8 ad 12 et 12
+ad 15, hoc est, ambabus rationibus 2 ud ³ et 4 ad ὅ.
+Itaque demonstravi rationem rationi, per multipli-
+cationem in se antecedentium amborum et ambo-
+rum eonsequentium, additam esse, ut imperasti.
+
+B. Quomodo autem rationes altera alteri alita·
+addi possunt P
+
+A. Si, nempe, ut antecedens est ad eoneequeu-
+tem unius rationis, ita fiat consequens alterius
+rationis ad quartam. Nam si rationi 2 nd ³ ad·
+denda sit ratio 4 ad 5, fiat ut 4 ad5, ita ³ ad aliam ¹:
+prodibit 3}- Ponautur ordine 2, 3, δὲ. Rntio ergo ¹
+2 ad δὲ est summa rationum 2 ad 3 et 3 ad 3}-
+Est enim ratio 3 ad δὲ, eadem quae ratio 4 ad 5>
+Et siquidem tres quantitates, 2, 3, 3Ξ, multiplicen-
+tur omnes per-1, prodibunt 8, 12, 15, iidem numeri
+qui facti erant per multiplicationem.
+
+B. Recte demonstratum est. Sed nonne sicut
+ratio rationi additur per multiplicationem, ita sub-
+ductio unius rationis ex alia fieri penest per diri-
+sionem ἓ
+
+A. Etiam. Nam, exempli gratia, a ratione 8 nd
+15 sit subducenda tatio 4 ad 5. Divido ambos
+

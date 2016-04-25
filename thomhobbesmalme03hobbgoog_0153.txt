@@ -1,0 +1,46 @@
+1³8 minumum m· kunnun-10
+
+numus Α. Certone?
+ῃ· Β. Puto. Verum εἰ regnlae demonstrationem
+aliquam ejus ipse habes, profer quaeso.
+
+A. Sciendum prius est, in omni muln'plimtione
+esse ut numerus productus nd numerum multipli-
+candum, ita multiplicantem ad unitatem.
+
+Β. Scio. Num opus multiplicationis aliud non
+est quam numerum invenire, qui toties continent
+multiplicandum quoties multiplicans continet uni-
+tatem.
+
+A. Tenes. Sit ergo numerorum quotlibet oon-
+tinne proportionalium series, A, Β, C, Dz iu qna A
+sit minimus. Fit ergo B ex multiplicatione Α per
+aliquem numerum integrum vel fractum. Sit mul-
+tiplicans, primo, integer quem tu vis.
+
+B. Sit multiplicans 3.
+
+A. Est ergo 3 A=B; et 3 13=C; et 3 C=D;
+et ut A ad B, itu 1 ad 3, nt tu modo ipse demon-
+strasti.
+
+B. Concedo.
+
+A. Sed iu proportionalibus, ut primum antece-
+dens ad primum consequeus, ita summa anteceden-
+tium omnium nd summum consequentium omnium.
+
+B. Recte.
+
+Α. Et in serie proposita, A‚B‚C‚D‚ omnes ante-
+cedentes suut A‚B,c‚ et omnes consequentes 13,c,
+D. Quare nt 1 ad A÷B÷c, ita 3 ad B÷C÷D. Et
+proinde 3A÷3B÷3C=B÷C÷u Et subductis
+utrinque B÷c, restabit hinc quidem D, illinc nuum
+3A÷2B÷2c. Habemus ergo aequationem unum,
+D=3A÷2B÷2c ; et sublato utrinqne A, aqua.-
+tionem alteram, D—A=2A÷2 B÷2 C. Qum
+diviso numero dato D-A per 2, quotiens erit A÷B
+÷C; cui adjunctus datus D‚dat summam quaesitam.
+

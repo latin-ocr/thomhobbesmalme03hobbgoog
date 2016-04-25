@@ -1,0 +1,46 @@
+CURATIO SPHAERAE, E'I'G. 515
+
+signare. Redde prius gratiam debitam pro multis annno]
+problematibus, quibus geometriam jamdudum am· ’Ὗ
+plificavi. Non solet, inquies, fieri. Recte hoc.
+Faciam ergo gratis.
+
+intelligatur sector quadrantis ABC dividi in rec-
+tis lineis ad centrum Α numero quocunque ductis,
+sine latitudine. Horum sectorum vertices erunt
+tot puncta, quot sunt factae partes totius sectoris
+ABC. Quare angulus rectus BAC continebit tot
+sectorum exiguarum vertices, quot sunt in qua-
+drante ABC sumptae partes. Sectorum igitur ho-
+rum exiguorum latera uon concurrent in puncto A,
+sed ipsum divident. Concurrent ergo extra Α,
+nempe GA extra quadratum producta.
+
+Posita ergo Ac 32, recta sumpta a puncto hoc
+extra quadratum indivisibili, si fiat ipsi Ac aequalia,
+'cadet infrac. Et huic addita cQ, cadet infra Q.
+Et huic rursus addita QG, cadet infra G. Et tres
+illae lineae sunt aequales tribus Aa, ΑΟ, AG, et in
+eademratione.
+
+Causa ergo quare calculus arithmeticus differt a
+geometrico, haec est; quod linearum sine latitudine
+nihilitae facit ut calculus arithmeticus incipiat extra
+quadratum, et calculus geometricus incipit in ipso
+quadrato ad punctum A.
+
+Distantia autem quae est inter A et concursum
+rectarum (latitudine carentium) in GA producta,
+erit in calculo arithmetico unitae.
+
+AD PROPOSI'IIONEM v111. ’
+
+Propositio viii haec est: 25 quadrata a quinta
+parte arcus BC, vel rectae Gi, aequalia sunt 10 qua-
+dratis a semiradio CO.
+
+Falsum est, dicit; primo, quia arcus BC non est
+equalis rectae Gt.
+
+ 
+

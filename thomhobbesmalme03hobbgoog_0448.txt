@@ -1,0 +1,43 @@
+unounrnasuu. 433
+
+Etiam 111 tribus aliis quibuslibet magnitudinibus t
+quarum prima est maxima, tertio vero minima, 1
+idem continget: ut in his numeris 12, 8, 2, ubi ra- ξ
+tio primae ad secundam est eadem quae 3 ad 2,
+ratio autem secundae ad tertiam eadem est quae 2
+111 l. Componamus has primo juxta definitionem
+traditam ab Euclide, Del. 5, Elem. 11, per multipli-
+cationem inter se tum antecedentium tum eonse-
+quentium. Oritur autem ratio 12 ad 2, eujus par-
+tes componentes erunt rationes 31112 et 2 1111;
+idest, (multiplicatis omnibus terminis per 4), ratio
+12 1112 composite ex rationibus 121118, 11 8 1112.
+
+Deinde componamus easdem per regulam com-
+positionis aliam, traditam 1 Clario 111 Prop. 23.
+Elem. vi. Fiat ergo 1113 ad 2, 111 2111 aliam, 1.
+Expositisque numeris 111, erit ratio composita 3
+1111 l aequalis rationibus 1011011111111113111 2 11 2
+ad 1. Nam multiplicatis omnibus terminis per 4,
+nascamur numeri 12, 8, 2, iidem qui prius.
+
+Itaque nihil video quo minus propositio illa,
+nempe, ratio primi* ad ultimum composito 111 er
+rationibus intermediis, pro vera habentur. Adverto
+etiem obiter, rationes componendi methodum hanc
+Clavianam esse veram rationum additionem: non
+autem, 11111111 Clavius, multiplicationem. Ι
+
+Quomodo autem eadem propositio, nempe, rati-
+onem primi ad ultimum* compositam 111111 ratio-
+nibus intermediis, locum habeat quando una ratio
+est maj0ris ad minus, altera minoris ad majuS,
+difficile explicatu est. Sint continue proportio-
+1111111,10,100; sed alio ordinecollocatae, ut l, 100,
+10. Cum ergo per propositionem illam universa-
+
+* Sic edit. 1668.
+vol.. lv. F 1‘
+
+ 
+

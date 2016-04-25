@@ -1,0 +1,43 @@
+472 numanus
+
+utrumn neque propositionem, neque consequentiam ullam
+
+''⁸“ falsam reperio, peccatorum omnium contra logicuu
+absolvendam censeo. Neque illorum regulam il-
+lanu utcunque speciosam legisse me memini in
+Aristotele, neque in alin scriptore logico.
+
+Exhibeuda mibi igiturest demonstratio legitima,
+ubi assumptum aliquod ad constructionem, nou
+tamen adhibetur ad demonstrationem. Demon-
+strabo sutem, absqm trisectione anguli, inter rec·
+tam datam et ipsius semissem quaenam sint media
+dnae proportionales.
+
+Sint datae (fig. 3.) dnae rectae AD, DV, facientes
+unam rectam AV. Sit autem DV semissis ipsius
+AD ; fiatque a majore AD quadratum ABCD. ln·
+ter ΑΙ) et DV inveniatur media proportionalis DE:
+oui in lateribus BC, AD ponatur aequalis ΑΟ et BR;
+jungaturque RO, et producatur.
+
+Secetur DO bifariam in K: centro autem K, in·
+tervallo KV, describatur circulus VIMX, secans CD
+in X, AD in M, et RO productum in 1. Quoniam
+ergo RO, CD sunt parallelae, anguli deinceps ad 0
+et D sunt recti; et DK, ΚΟ aequales; et proinde
+etiam OM, DV aeqnales. AEquales item sunt ΙΚ,
+ΚΧ; et IX diameter circuli VlMX, eademqne
+aequalis rectae MV. ltaque ductis rectis VX, XM,
+Ml, lV, erit VIMX rectaugulum: et tres rectae
+DM, DX, DV continue proportionales. Divisis
+autem MX, IV bifariam in Z et L, ducta ZL transi-
+bit per K; et secabit tum MX tum lv ad angulos
+rectos.
+
+ln recta lK sumatur lP aequalis DV. Erit ergo
+reliqua PX aequalis DM, et PK aqualis DK: item
+LK secabit angulum DKP bifariam.
+
+ 
+

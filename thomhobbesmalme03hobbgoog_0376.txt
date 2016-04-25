@@ -1,0 +1,47 @@
+na mauridomus crucum. 361
+
+ΟΝ aequalis CL vel CM; Jnngaturqne BN, quae eorsum
+secabit DL in diagonali ΑΟ ad Ο. Ducatur qnoque ,Ἦ-
+AK secans diagonalem BD in V, et HG in q, et
+
+BN in o, et producatur ad BC in ro. Per punctum
+
+Ο ducatur recta RS parallelo ΒΟ, secans AB in R,
+
+et ΟΒ in S, duceturque AS secans ΒΕ in ιι, et pro-
+ducatur ad ductam DM. Producatnr item RS ad
+eandem DM in Z.
+
+PROPOSITIO 1.
+
+Producta AS incidet in M.
+
+Quoniam enim angulus ΒΟΝ sectus est bifariam
+a003 erit ut ΒΟ ad ΟΝ sive CM, ita ΒΟ ad ΟΝ.
+Sed ut ΒΟ ad ON, ita est (propter triangula BOR,
+NOS similia) ΒΟ ad OS; et quia auguli 008,
+OOS sunt aequales, erunt quoque tum rectae SZ,
+
+CS, OS, tum ΒΟ, DS, SV (propter triangula KAD,
+KVO similia) inter se aequales. Quare ut ΒΟ ad
+ΟΝ vel ΟΜ, ita est DS ad SC. Et componendo ut
+DS ad DC sive ΒΟ, ita est BC ad ΒΜ. Sunt ergo
+BM, ΒΟ (sive ΑΒ) et DS continue proportionales,
+Producta ergo AS transibit per M.
+
+PROPOSITIO 11.
+
+Recta ΒΜ aequalis cst arcui BD.
+
+Ducatur per Ο recta ra parallelo DC, secans AD
+iuret Boin a. Cum ergo sit ut DS ad SC ita BC
+(idest Do) ad CM, et componendo ut DS ad DC
+ita ΒΟ vel DC ad BM, per praecedentem erunt
+Ba, ΒΟ, ΒΜ continue proportionales ; atque etiam
+aarum potentiae, nempe potentia Ba, potentia ΒΟ,
+potentia ΒΜ erunt continue proportionales. Sed
+potentia ΒΟ tripla est potentiae CL sive CM.
+Quare potentias rectarum Βιι, ΒΟ, ΒΜ suntin ra-
+
+ 
+
